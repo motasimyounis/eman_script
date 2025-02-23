@@ -2,9 +2,9 @@ from telegram import Update
 
 from telegram.ext import Application, MessageHandler, CommandHandler, filters, CallbackContext
 
-TOKEN = "7844636111:AAEaXz9IuQFELRdYgQezqtZ5PvTcrqvjXCA"
+TOKEN = "7630417018:AAEC2bRD23er9M5rEUI3yDBkyX6nb7EQcHI"
 
-GROUP_CHAT_ID = -1002179170764  
+GROUP_CHAT_ID = -4606331698
 user_message_map = {}
 
 
